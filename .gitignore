@@ -1,0 +1,5 @@
+*Debug*
+*.suo
+*.user
+*ipch*
+\.vs
